@@ -1,4 +1,4 @@
-package Guía_5_Java;
+package guia_5;
 
 /* Crea una aplicación que a través de una función nos convierta una cantidad de 
 euros introducida por teclado a otra moneda, estas pueden ser a dólares, yenes o 

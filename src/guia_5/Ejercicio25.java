@@ -1,5 +1,5 @@
 
-package Guía_5_Java;
+package guia_5;
 
 /*Realizar un programa que rellene un matriz de 4 x 4 de valores aleatorios y la 
 muestre ordenada por sus columnas.

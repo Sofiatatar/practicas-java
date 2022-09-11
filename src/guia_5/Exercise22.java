@@ -1,5 +1,5 @@
 
-package Guía_5_Java;
+package guia_5;
 
 /*Realizar un algoritmo que rellene un vector con los 100 primeros números enteros y 
 los muestre por pantalla en orden descendente*/

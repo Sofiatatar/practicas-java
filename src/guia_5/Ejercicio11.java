@@ -1,4 +1,4 @@
-package Guía_5_Java;
+package guia_5;
 
 import java.util.*;
 

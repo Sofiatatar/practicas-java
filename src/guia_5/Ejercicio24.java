@@ -3,7 +3,7 @@
 cuántos de 2 dígitos, etcétera (hasta 5 dígitos).
  */
 
-package Guía_5_Java;
+package guia_5;
 
 public class Ejercicio24 {
     public static void main(String[] args) {

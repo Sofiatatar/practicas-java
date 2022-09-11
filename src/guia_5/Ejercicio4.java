@@ -1,5 +1,5 @@
 
-package Guía_5_Java;
+package guia_5;
 
 import static com.sun.tools.javac.util.StringUtils.toUpperCase;
 import java.util.Scanner;

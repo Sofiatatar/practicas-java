@@ -1,5 +1,5 @@
 
-package Guía_5_Java;
+package guia_5;
 
 import java.util.Scanner;
 
@@ -18,7 +18,7 @@ public class Extra3 {
         System.out.println("Ingrese una letra, el sistema comprobara si se trata de una vocal:");
         letra = read.next();
         
-        for (int i = 0; i < arrayVocales.length; i++) {
+        for(int i = 0; i < arrayVocales.length; i++) {
             
             if (letra.equalsIgnoreCase(arrayVocales[i])){
                 vocal = true;
